@@ -1,5 +1,7 @@
 # SQAIプロジェクト参加者向け情報
 
+# Information for SQAI Project Members
+
 ### 論文の謝辞の記載方法 / How to Include Acknowledgements in Your Paper
 
 * グラント番号の成果論文の謝辞等への記載をお願いします / Please include the grant number in the acknowledgments of the articles
