@@ -8,3 +8,7 @@
     * 和文) 本研究は、JST共創の場形成支援プログラム「サスティナブル量子AI研究拠点」(JPMJPF2221)の支援を受けたものです。
 
 * SQAIロゴ
+  * ロゴデザインレギュレーションシート / Logo Design Regulation Sheet
+  * ロゴデータ / Logo data
+  * SQAIプロジェクト関係者は、レギュレーションシートを参照の上、プレゼンテーションなどで自由にお使いください / SQAI project members can use the SQAI logo freely in their presentations, etc. Please refer to the Regulation Sheet.
+  * SQAIロゴをその他用途で利用されたい場合は、事務局(量子AI創発コンシェルジュ)までご相談ください / If you wish to use the SQAI logo for other purposes, please contact the secretariat (Concierge for Emergence in Quantum AI ).
