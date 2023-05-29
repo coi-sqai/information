@@ -7,7 +7,7 @@
     * English) This work was supported by the Center of Innovations for Sustainable Quantum AI (JST Grant Number JPMJPF2221).
     * 和文) 本研究は、JST共創の場形成支援プログラム「サスティナブル量子AI研究拠点」(JPMJPF2221)の支援を受けたものです。
 
-* SQAIロゴ
+* SQAIロゴ / SQAI Logo
   * ロゴデザインレギュレーションシート / Logo Design Regulation Sheet
   * ロゴデータ / Logo data
   * SQAIプロジェクト関係者は、レギュレーションシートを参照の上、プレゼンテーションなどで自由にお使いください / SQAI project members can use the SQAI logo freely in their presentations, etc. Please refer to the Regulation Sheet.
