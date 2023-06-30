@@ -33,3 +33,7 @@
 * cuda 12.0
 * cmake 3.26.4
 * python 3.11.4 including numpy, scipy, matplotlib, etc
+
+## Job Scheduler
+
+* Slurm準備中
