@@ -9,14 +9,15 @@
   * only accepts SSH from inside UTokyo / 東大内からのみSSH可
   * only accepts public key authentication / 公開鍵認証のみ
 * quetta-c01, quetta-c02, quetta-c03, quetta-c04, quetta-c05, quetta-c06 (CPU server)
-  * CPU: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz x 2
-  * Total Number of Cores: 64
-  * Total Memory: 528026268 kB
+  * 1台あたり
+    * CPU: Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz x 2
+    * Total Number of Physical Cores: 64
+    * Total Memory: 500 GB
 * quetta-g01 (GPGPU server)
   * CPU: AMD EPYC 7543 32-Core Processor x 2
-  * Total Number of Cores: 64
-  * Total Total: 1056663248 kB
-  * NVIDIA A100 x 6
+  * Total Number of Physical Cores: 64
+  * Total Total: 1000 GB
+  * NVIDIA A100 x 8
 * filesystem
   * /home - SSD 18 TB
   * /work - HD 60 TB
