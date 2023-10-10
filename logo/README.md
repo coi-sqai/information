@@ -19,5 +19,23 @@
 
 
 * 横並び型 / horizontal
+
+    <img src="data/horizontal/ja/sqai-horizontal-ja-rgb150ppi.jpg" width="400"/>
+
+  * カラー/color: [Japanese](data/horizontal/ja), [English](data/horizontal/en)
+  * グレースケール/gray: [Japanese](data/horizontal_gray/ja), [English](data/horizontal_gray/en)
+  * 単色/mono: [Japanese](data/horizontal_mono/ja), [English](data/horizontal_mono/en)
+
 * スクエア型 / square
+
+    <img src="data/square/ja/sqai-square-ja-rgb150ppi.jpg" width="120"/>
+
+  * カラー/color: [Japanese](data/square/ja), [English](data/square/en), [No-copy](data/square/no-copy)
+  * グレースケール/gray: [Japanese](data/square_gray/ja), [English](data/square_gray/en), [No-copy](data/square_gray/no-copy)
+  * 単色/mono: [Japanese](data/square_mono/ja), [English](data/square_mono/en), [No-copy](data/square_mono/no-copy)
+
 * アイコン / icon
+
+    <img src="data/icon/sqai-icon-rgb150ppi.jpg" width="100"/>
+
+  * [カラー/color](data/icon), [グレースケール/gray](data/icon_gray), [単色/mono](data/icon_mono)
