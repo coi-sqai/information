@@ -16,7 +16,7 @@
   * CPU: AMD EPYC 7543 32-Core Processor x 2
   * Total Number of Cores: 64
   * Total Total: 1056663248 kB
-  * NVIDIA A100 x 6
+  * NVIDIA A100 x 8
 * filesystem
   * /home - SSD 18 TB
   * /work - HD 60 TB
@@ -37,4 +37,4 @@
 
 ## Job Scheduler
 
-* Slurm準備中
+* Slurm
