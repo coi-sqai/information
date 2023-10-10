@@ -10,12 +10,13 @@
 ### ロゴデータ / Logo data
 
 * 基本形/basic
+
+    <img src="data/basic/ja/sqai-basic-ja-rgb150ppi.jpg" width="200"/>
+
   * カラー/color: [Japanese](data/basic/ja), [English](data/basic/en), [No-copy](data/basic/no-copy)
   * グレースケール/gray: [Japanese](data/basic_gray/ja), [English](data/basic_gray/en), [No-copy](data/basic_gray/no-copy)
   * 単色/mono: [Japanese](data/basic_mono/ja), [English](data/basic_mono/en), [No-copy](data/basic_mono/no-copy)
 
-  <img src="data/basic/ja/sqai-basic-ja-rgb150ppi.jpg"/>
-  <img src="data/basic/en/sqai-basic-en-rgb150ppi.jpg"/>
 
 * 横並び型 / horizontal
 * スクエア型 / square
