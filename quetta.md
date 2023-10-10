@@ -16,7 +16,7 @@
 * quetta-g01 (GPGPU server)
   * CPU: AMD EPYC 7543 32-Core Processor x 2
   * Total Number of Physical Cores: 64
-  * Total Total: 1000 GB
+  * Total Memory: 1000 GB
   * NVIDIA A100 x 8
 * filesystem
   * /home - SSD 18 TB
@@ -38,4 +38,4 @@
 
 ## Job Scheduler
 
-* Slurm準備中
+* Slurm
