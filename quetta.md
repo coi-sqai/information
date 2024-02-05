@@ -21,7 +21,7 @@
 * filesystem
   * /home - SSD 18 TB
   * /work - HD 60 TB
-  * spare: SSD 18TB, HD 60TB
+  * spare: SSD 18TB, HD 60+60+60TB
 
 ## Compilers, Libraries, etc / コンパイラ、ライブラリ、他
 
