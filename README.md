@@ -31,5 +31,5 @@
 
 ### SQAI Shin-Kawasaki Computing Server: DGX H100
 
-* [DGX H100]()
+* [DGX H100](https://github.com/coi-sqai/information/blob/keio/skwsk_dgxh100.md)
 * 利用ご希望の方は上記リンク先の問い合わせ先までご連絡願います。
