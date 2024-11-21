@@ -28,3 +28,8 @@
 
 * [SQAI Workstation System: quetta](https://github.com/coi-sqai/quetta/blob/main/README.md)
 * 利用ご希望の方は拠点事務局までご連絡お願いします。
+
+### SQAI Shin-Kawasaki Computing Server: DGX H100
+
+* [DGX H100]()
+* 利用ご希望の方は上記リンク先の問い合わせ先までご連絡願います。
